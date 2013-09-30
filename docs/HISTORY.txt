@@ -1,0 +1,19 @@
+Changelog
+=========
+
+1.1 (2013-09-30)
+----------------
+* Small update to use latest docdata code from the django-docdata project
+
+
+1.0 (2012-06-13)
+----------------
+* Stable release
+
+
+0.1a1 (unreleased)
+------------------
+
+* initial import to plone collective
+* Updated translations [kcleong]
+
