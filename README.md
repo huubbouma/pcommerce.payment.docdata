@@ -3,6 +3,8 @@ pcommerce.payment.docdata
 
 pcommerce.payment.docdata is a plone plugin, which provides payment over docdata for PCommerce
 
+You can find it on github at: https://github.com/huubbouma/pcommerce.payment.docdata
+
 By: Huub Bouma (http://www.wyldebeast-wunderliebe.com)
 
 The Docdata specific hashing, status, and exception code was taken from the
